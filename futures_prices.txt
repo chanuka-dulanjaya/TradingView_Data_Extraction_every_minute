@@ -1,0 +1,424 @@
+Updated at: 2025-01-03 23:07:08
+Currency | Current Price
+----------------------------------------
+Micro 10-Year Yield Futures | 4.572
+Micro 2-Year Yield Futures | 4.225
+Micro 30-Year Yield Futures | 4.639
+30-Year UMBS TBA Futures - 5.5% Coupon | 98'20'7
+Micro 5-Year Yield Futures | 4.950
+30-Year UMBS TBA Futures - 6.0% Coupon | 100'16'5
+Australian Dollar Futures | 0.62185
+British Pound Futures | 1.2421
+Canadian Dollar Futures | 0.69405
+Euro FX Futures | 1.03350
+Japanese Yen Futures | 0.0064260
+Brazilian Real Futures | 0.16120
+Mexican Peso Futures | 0.04782
+New Zealand Dollar Futures | 0.56175
+Swiss Franc Futures | 1.10905
+South African Rand Futures | 0.052925
+Argus Propane (Saudi Aramco) Futures | 628.750
+SGX TSI FOB Australia Premium Coking Coal Futures | 206.00
+Murban Crude Oil Futures | 76.83
+Silver Futures | 7673
+Aluminium High Grade Futures | 2486.44
+Aluminum Futures | 19900
+Aluminum Futures | 2459.00
+Aluminium Mini Futures | 238.80
+Aluminium Futures | 238.30
+ASX SPI 200 Index Futures | 8262
+API2 Rotterdam Coal Futures | 113.30
+Gold Futures | 626.36
+Bloomberg Commodity Index Futures | 98.74
+Ethanol T2 FOB Rdam Including Duty (Platts) Futures | 655.193
+GIFT NIFTY BANK INDEX FUTURES | 51773
+BANKNIFTY INDEX FUTURES | 51259.20
+Live Cattle Futures | 324.75
+BSE BANKEX | 58348.90
+Block Cheese Futures | 1.920
+Butadiene Rubber Futures | 13150
+Brent Crude Oil Futures | 76.44
+Brent Crude Oil Futures | 2502.0
+Brent Crude Futures | 76.61
+SENSEX INDEX FUTURES | 79770.25
+Bitcoin Futures | 98805
+Bitumen Futures | 3705
+BUX Index Futures | 85330
+Brent Last Day Financial Futures | 76.62
+London Cocoa Futures | 9020
+Long Swiss Confederation Bond Futures | 149.51
+Grade A Copper Futures | 8822.00
+Castor Seed Futures | 6374
+Cash-settled Butter Futures | 261.950
+Cocoa Futures | 11350
+Cash Settled Corn | 73.23
+Cocoa Futures | 11137
+Crude Oil Futures | 74.13
+FTSE CHINA A50 INDEX Futures | 13031
+Standard-Size USD/Offshore RMB (CNH) Futures | 7.3620
+Cobalt Futures | 24300
+Cobalt Metal (Fastmarkets) Futures | 10.95
+Undecorticated Cotton Seed Oilcake – Akola Futures | 2735
+Copper Futures | 802.10
+COTTONCNDY Futures | 54470
+USD Malaysian Crude Palm Oil Calendar Futures | 954.25
+Futures on CNY/RUB Exchange Rate | 14.271
+Crude Oil Futures | 6368
+Crude Oil Mini Futures | 6366
+Cash-Settled Cheese Futures | 1.906
+Cotton No. 2 Futures | 67.73
+Copper Cathode Futures | 73060
+Chicago Ethanol (Platts) Futures | 1.6775
+USD/CNH Futures | 7.3610
+Singapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures | 7.622
+ID x IPCA Spread Futures | 3.81
+DAX Futures | 20144
+Class III Milk Futures | 20.43
+ID x U.S. Dollar Spread Futures | 9.132
+German Power Baseload Calendar Month Futures | 114.92
+Coriander Futures | 7812
+One-day Interbank Deposit Futures | 15.095
+DJIA Futures | 42910
+Dollar Futures | 1058.0
+US Dollar Futures | 6200.5
+US Dollar Index® Futures | 108.750
+E-mini Euro FX Futures | 1.0336
+EUA FUTURES | 74.89
+EUA Futures | 75.94
+Euro-US Dollar Futures | 1.0207
+E-mini S&P MidCap 400 Futures | 3163.9
+SA Base Load Month Electricity Futures | 63.11
+E-mini S&P 500 Futures | 5976.00
+Euro Short-Term Rate (€STR) Futures | 96.88125
+BTIC E-mini S&P 500 Futures | 47.35
+Hydrous Ethanol Futures | 2790.0
+Ethereum Futures | 3612.5
+Euro-Ruble Futures | 108301
+EURINR Futures | 88.8350
+Euro/Turkish Lira Futures | 37.398
+EURUSD Futures | 1.0350
+EURO/USD Futures | 1.0316
+EURUSD Futures | 1.0340
+ATX Futures | 3673.0
+Eurex Daily Futures on KOSPI 200 Futures | 325.95
+Euro-BONO Futures-Fixed Income Fut Futures | 123.97
+Long-Term Euro-BTP Futures-Fixed Income Fut Futures | 119.40
+CAC 40 INDEX FUTURES | 7284.0
+EUR/USD Futures | 1.03194
+Crude Palm Oil Futures | 4368
+DAX Futures | 20046
+Mini-DAX Futures | 20046
+Micro-DAX Futures | 20046
+SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures | 99.30
+EURO STOXX Banks Futures | 145.45
+EURO STOXX 50 Index Futures | 4891
+OMXH25 Futures | 4357.0
+Euro-Bund Futures-Fixed Income Fut Futures | 132.65
+Euro-Bobl Futures-Fixed Income Fut Futures | 117.40
+Euro-Schatz Futures-Fixed Income Fut Futures | 106.805
+EURO-Buxl Futures-Fixed Income Fut Futures | 130.66
+Gold Futures | 2667.8
+FINNIFTY FUTURES | 23862.60
+FTSE Bursa Malaysia KLCI Futures | 1630.5
+MSCI World Index Futures | 11929
+MICRO NYSE FANG+™ Index Futures | 13457.4
+Euro-OAT Futures-Fixed Income Fut Futures | 122.46
+SMI Futures | 11612
+DCE Soybean Oil Futures | 1093.75
+3M SARON Futures | 99.590
+AEX INDEX FUTURES | 887.10
+FTSE 100 Index Futures | 8235.0
+Fuel Oil Futures | 3284
+US Dollar Futures | 4.1611
+FVS-VSTOXX Futures | 17.25
+WIG20 INDEX FUTURES | 2258
+WIG40 INDEX FUTURES | 6403
+STOXX Europe 600 Index Futures | 509.8
+Short Gilt Futures | 96.26
+Long German Bond Future (Bund) | 132.68
+Ultra Long German Bond Future (Buxl) | 130.78
+10Yr GBP SONIA Swapnote | 91.24
+GBPINR Futures | 107.1425
+GBPUSD Futures | 1.2478
+GBP/USD Futures | 1.2409
+Gold Futures | 2655.6
+Gold Futures | 2694.6
+CBL Global Emissions Offset Futures | 0.15
+Feeder Cattle Futures | 267.250
+10 Baht Gold Futures | 43580
+Nonfat Dry Milk Futures | 139.500
+Gold Online Futures | 2674.0
+Gold Futures | 77335
+Gold Guinea Futures | 62422
+Gold Mini Futures | 77346
+Gold Petal Futures | 7714
+Guar Gum Refined Splits Futures | 10573
+Guar Seed Futures | 5423
+UK NBP Natural Gas Futures | 123.82
+Medium Gilt Futures | 98.57
+Hot Rolled Coils Futures | 3391
+Lean Hog Futures | 81.450
+Copper Futures | 4.0810
+Natural Gas (Henry Hub) Last-day Financial Futures | 3.375
+Hang Seng China Enterprises Index (HSCEI) Futures | 7176
+HKD/RUB Exchange rate futures | 13.660
+NY Harbor ULSD Futures | 2.3505
+U.S. Midwest Domestic Hot-Rolled Coil Steel (CRU) Index Futures | 708
+Hang Seng Index Futures | 19822
+Hang Seng TECH Index Futures | 4429
+Medium Italian Bond (BTP) Futures | 113.51
+Three Month Euro (Euribor) Futures | 97.650
+Long Italian Bond (BTP) Futures | 119.60
+Arabica Coffee Futures | 402.00
+Israeli Shekel Futures | 0.27389
+S&P Merval Futures | 2770465
+Bovespa Index Futures | 120035
+USD/INR (USD) FX Futures | 85.8300
+S&P 500 Index Futures | 5981.25
+INR/USD FX Futures | 116.33
+E-mini Japanese Yen Futures | 0.006426
+MINI Japan GOVT BOND FUTURES | 142.07
+Jeera Futures | 23370
+Japan GOVT BOND FUTURES | 142.01
+JPX400 Futures | 24995
+JPYINR Futures | 54.9275
+Three Month Euro (Euribor) 1yr Mid-Curve | 97.970
+Kapas Futures | 1506.5
+Coffee C Futures | 318.50
+KC HRW Wheat Futures | 538'2
+Korean Won Futures | 0.0006800
+Coffee Futures | 3.2685
+KRW/USD (Mini) FX Futures | 0.6810
+Lumber Futures | 541.0
+Live Cattle Futures | 195.450
+Lead Futures | 176.70
+Lead Mini Futures | 177.65
+LME Lithium Hydroxide CIF (Fastmarkets MB) Futures | 9500.00
+ASX 20 Year Treasury Bond Futures | 95.185
+Lithium Carbonate CIF CJK (Fastmarkets) Futures | 10.40
+Lithium futures | 9.50
+Micro E-mini Russell 2000 Index Futures | 2271.8
+Micro AUD/USD Futures | 0.6219
+Micro GBP/USD Futures | 1.2423
+Micro EUR/USD Futures | 1.0335
+Corn Futures in Dollars | 185.5
+Micro Bitcoin Futures | 98765
+MSCI China A 50 Connect (USD) Index Futures | 2058.0
+Micro CAD/USD Futures | 0.6941
+MSCI Mexico NTR (USD) - Stnd Index Futures | 591.996
+Micro WTI Crude Oil Futures | 74.13
+LME Molybdenum Futures | 21.08
+Mentha Oil Futures | 940.5
+Micro E-mini S&P 500 Index Futures | 5975.50
+Micro Ether Futures | 3612.5
+Micro Gold Futures | 2655.5
+Micro Copper Futures | 4.0810
+Mini Hang Seng Index Futures | 19821
+MIDCPNIFTY FUTURES | 13053.80
+Micro JPY/USD Futures | 0.006424
+Liquid NZ Milk Price Futures | 9.88
+MICEX MINI FUTURES | 2932.35
+MSCI Emerging Markets Index Futures | 1081.6
+Micro Henry Hub Natural Gas Futures | 3.373
+Micro E-mini Nasdaq-100 Index Futures | 21459.75
+Growth 250 Index Futures | 633
+Micro CHF/USD Futures | 1.1091
+Methanol T2 FOB Rdam (ICIS) Futures | 426.0
+MSCI World Index Futures | 3725.2
+MICEX INDEX FUTURES | 293200
+MINI-TAIEX FUTURES | 23141
+Micro E-mini Dow Jones Industrial Average Index Futures | 42948
+Natural Gas Mini Futures | 291.9
+Natural Gas Futures | 291.8
+globalCOAL Newcastle Coal Futures | 126.55
+Henry Hub Natural Gas Futures | 3.372
+Natural Gas Futures | 3.386
+Nickel Futures | 14905.00
+Nickel Futures | 122920
+Nickel Futures | 1331.8
+S&P CNX NIFTY INDEX FUTURES | 24092.40
+GIFT NIFTY 50 INDEX FUTURES | 24107.0
+Nikkei/Yen Futures | 39555
+NIKKEI 225 INDEX FUTURES | 39550
+Nikkei 225 Futures | 39570
+Nikkei 225 Mini Futures | 39570
+Nikkei 225 micro Futures | 39570
+Nikkei/USD Futures | 39650
+Nikkei 225 VI Futures | 21.50
+Norwegian Krone Futures | 0.088075
+E-mini Nasdaq-100 Futures | 21460.50
+5Yr Euro Swapnote Futures | 117.33
+OBX INDEX FUTURES | 1369.37
+Frozen Concentrate Orange Juice A Futures | 497.25
+Gold Futures | 2656.8
+10Yr Euro Swapnote Futures | 131.72
+Palladium Futures | 924.5
+Lead Futures | 16725
+Lead Futures | 1914.00
+Palladium Futures | 967.95
+Platinum Futures | 949.3
+Polish Zloty Futures | 0.24028
+Pork Cutout Futures | 92.200
+Platinum Futures | 970.1
+E-mini Copper Futures | 4.072
+E-mini Nasdaq Composite Futures | 19389.0
+E-mini Natural Gas Futures | 3.375
+E-mini Silver Futures | 30.1750
+E-mini Crude Oil Futures | 74.125
+HARD RED SPRING WHEAT FUTURES | 595'6
+Gold (Mini) Futures | 2655.00
+Long Gilt Futures | 92.23
+Steel Rebar Futures | 3280
+RBOB Gasoline Futures | 2.0605
+Robusta Coffee Futures | 4964
+TSE REIT Index Futures | 1634.5
+Euro/Swiss Franc Futures | 0.9318
+ROFEX 20 INDEX FUTURES | 396700
+RTS INDEX FUTURES | 87670
+RTS INDEX FUTURES (MINI) | 877.0
+Chinese Renminbi/USD Futures | 0.13821
+Euro/British Pound Futures | 0.83195
+RUBLE OVERNIGHT INDEX AVERAGE FUTURES | 87.34
+Canola Futures | 621.5
+E-mini Russell 1000 Index Futures | 3265.1
+RepoFunds Rate (Italy) - Three-Month Single Contract Basis Spread Futures | −0.3600
+E-mini Russell 2000 Index Futures | 2271.8
+Natural Rubber Futures | 17085
+Dow Jones U.S. Real Estate Index Futures | 359.5
+Euro/Japanese Yen Futures | 160.86
+SET50 Index Futures | 892.8
+Sugar Futures | 45.05
+Three Month SARON | 99.8650
+Sugar No. 11 Futures | 19.64
+LME Steel Scrap CFR Turkey (Platts) Futures | 346.50
+Swedish Krona Futures | 0.090375
+Sugar No. 16 Futures | 37.00
+One Month SOFR Futures | 95.6800
+Three Month SOFR Futures | 95.6600
+MSCI Singapore Index Futures | 374.95
+US Dollar-Ruble Futures | 106174
+Silver Futures | 30.170
+Micro Silver Futures | 30.165
+Silver Futures | 89456
+Silver Mini Futures | 89508
+Silver Micro Futures | 89533
+Indian Rupee/USD Futures | 116.32
+Mini-Sized Soybean CME | 21.84
+E-mini S&P 600 SmallCap Futures | 1416.5
+Skim Milk Powder Futures | 2700
+Tin Futures | 28873.00
+Tin Futures | 243070
+Three Month SONIA | 95.540
+Rosario Soybean Futures in Dollars | 280.0
+E-mini PHLX Semiconductor Sector Futures | 5136.0
+Chicago Soybean Futures | 365.0
+FOB Santos (Platts) Soybean Futures | 372.0
+Bleached Softwood Kraft Pulp Futures | 6052
+One-Month SOFR Futures | 95.6850
+ICE Three-Month SOFR Index Futures | 95.6600
+Three-Month SOFR Futures | 95.8200
+Stainless Steel Futures | 12705
+STRAITS TIMES INDEX FUTURES | 3808
+Steel Long Futures | 42850
+Crude Sunflower Oil Futures | 1258.900
+Silver Futures | 30.79
+Silver Futures | 30.15
+SENSEX50 FUTURES | 25339.00
+Ten-Year U.S. Treasury Note Futures | 108.832
+Dubai Crude Oil Futures | 71060
+SGX SICOM TSR20 Futures | 197.4
+Dutch TTF Natural Gas Futures | 49.622
+DUTCH TTF GAS BASE LOAD FUTURES | 50.273
+ICE Futures Europe Dutch TTF Natural Gas Futures | 49.620
+Dutch TTF Natural Gas Last Day Financial Futures (USD/MMBTU) | 14.965
+Corn Futures | 40500
+Gold Futures | 13419
+Gold mini Futures | 13417.0
+Kerosene Futures | 84000
+Iron Ore 62% Fe, CFR China (TSI) Futures | 100.61
+TOPIX FUTURES | 2757.00
+Turmeric Futures | 15422
+Ultra 10-Year U.S. Treasury Note Futures | 111'10'5
+TOPIX Futures | 2763.5
+TOPIX Mini Futures | 2762.50
+Platinum Futures | 4718
+Platinum mini Futures | 4713.0
+RSS3 Rubber Futures | 364.4
+Turkish Lira/US Dollar (TRY/USD) Future | 0.026400
+Silver Futures | 153.5
+Cotton Futures | 0.6857
+Dutch TTF Natural Gas Calendar Month Futures | 49.550
+20-Year U.S. Treasury Bond Futures | 125'16
+SGX FTSE Taiwan Index Futures | 1918.25
+TAIEX FUTURES | 23142
+TRY/RUB exchange rate futures | 2.779
+Ultra Long Gilt Futures | 80.68
+Ultra U.S. Treasury Bond Futures | 118'24
+UK Base Electricity Futures (Gregorian) | 103.10
+USD/CNH (Full-Sized) FX Futures | 7.3605
+USD/CNY Exchange Rate Cash-Settled Futures | 7.425
+DJIA FUTURES | 42984
+Urea (Granular) CFR Brazil Futures | 367.50
+Urea (Granular) FOB Egypt Futures | 400.50
+Heating Oil/Low Sulphur Gasoil Futures Spread | 2.3503
+RBOB Gasoline Average Price Futures | 2.0605
+Low Sulphur Gasoil Futures | 703.00
+Urea (Granular) FOB Middle East Futures | 369.00
+NASDAQ-100 FUTURES | 21490
+UK Peak Electricity Future (Gregorian) | 121.25
+30yr SOFR Swapnote Futures | 83.70
+US Dollar Futures | 34.34
+USDINR Futures | 85.8550
+USDJPY Futures | 155.63
+USDJPY Futures | 156.28
+USD/Turkish Lira Futures | 36.255
+5yr SOFR Swapnote Futures | 95.36
+10yr SOFR Swapnote Futures | 91.24
+2yr SOFR Swapnote Futures | 97.995
+UxC Uranium U3O8 Futures | 74.40
+VN30 Index Futures | 1324.0
+Cboe Volatility Index (VIX) Futures | 17.110
+Mini Cboe Volatility Index (VXM) Futures | 17.14
+White Sugar Futures | 514.5
+WTI Crude Futures | 74.14
+Mini U.S. Dollar Futures | 6200.5
+UK Feed Wheat Futures | 191.25
+Bovespa Index-Mini Futures | 120035
+Whole Milk Powder Futures | 3680
+Micro S&P 500 Futures | 5979.50
+Oil Futures | 73.66
+Silver USD per ounce Futures | 30.11
+E-mini Utilities Select Sector Futures | 787.1
+Gold TRY per gram Futures | 3186.4
+Gold USD per ounce Futures | 2666.7
+Mini-Corn Futures | 450'4
+Mini Soybean Futures | 990'6
+BIST LIQUID BANKS FUTURES | 14237
+Palladium USD per ounce Futures | 953.4
+Platinum USD per ounce Futures | 959.5
+ASX 10 Year Treasury Bond Futures | 95.555
+BIST 30 FUTURES | 11695
+Mini-sized Chicago SRW Wheat Futures | 529'1
+FTSE 250 - Stnd Index Futures | 20726
+E-mini Dow ($5) Futures | 42948
+No. 11 Sugar Futures | 0.1973
+ASX 3 Year Treasury Bond Futures | 96.14
+FTSE 100 - Stnd Index Futures | 8239.0
+3-Year T-Note Futures | 104'12'3
+U.S. Treasury Bond Futures | 113'26
+Corn Futures | 450'6
+5-Year T-Note Futures | 106'11'2
+Zinc Futures | 273.75
+Zinc Mini Futures | 274.20
+Soybean Oil Futures | 39.64
+Soybean Meal Futures | 307.9
+10-Year T-Note Futures | 108'26'0
+Zinc Futures | 24755
+Oats Futures | 325'6
+30 Day Federal Funds Futures | 95.700
+Rough Rice Futures | 13.955
+Special High Grade Zinc Futures | 2864.91
+Soybean Futures | 990'2
+2-Year T-Note Futures | 102'26'0
+Wheat Futures | 528'6
+
